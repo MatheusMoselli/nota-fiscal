@@ -1,0 +1,83 @@
+/* Geral */
+body {
+    color: white;
+    background-color: #323232;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    padding: 20px;
+    background-color: rgb(151,209,203);
+}
+
+/* Home */
+.jumbotron-dark {
+    background-color: #323232;
+}
+
+.graphics {
+    margin-top: 25px;
+}
+
+
+/* Notas Emitidas */
+.title {
+    margin-top: 50px;
+}
+
+.tables {
+    overflow-x: auto;
+}
+
+/* Produtos */
+.paddingtop {
+    padding-top: 50px;
+}
+
+.card {
+    border-color: #454d55;
+    background-color: #343a40;
+}
+
+/* Cadastrar Produto */
+ol.breadcrumb {
+    background-color: #323232;
+}
+
+.breadcrumb-item.active {
+    color: white;
+    font-size: 2em;
+}
+
+hr.products {
+    background-color: white;
+    border-color: white;
+}
+
+/* Cadastro da Nota */
+.ativo {
+    font-weight: 700;
+}
+
+.formulario {
+    background-color: rgb(238, 238, 238);
+    padding: 25px;
+    border-radius: 15px;
+    color: black;
+    margin: 0 auto;
+    width: 50vw;
+}
+
+.formulario h2 {
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+.mgtop {
+    margin-top: 1rem;
+}
+
+.inputwidth {
+    margin: 0 auto;
+    width: 20vw!important;
+}
